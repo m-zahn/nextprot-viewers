@@ -2,13 +2,13 @@
 
 This is a code repository for the SIB - Swiss Institute of Bioinformatics CALIPHO group neXtProt project
 
-See: http://www.nextprot.org/
+See: https://www.nextprot.org/
 
 # neXtProt viewers
 
 [![Build Status](https://travis-ci.org/calipho-sib/nextprot-viewers.svg?branch=master)](https://travis-ci.org/calipho-sib/nextprot-viewers)
 
-This repository groups viewers developed for [neXtProt Search](https://search.nextprot.org).
+This repository groups viewers developed for [neXtProt](https://www.nextprot.org).
 All this viewers could be reused
 
 
